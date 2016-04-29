@@ -1,0 +1,5 @@
+In Windows explorer, copy project folder to mycode
+In Powershell, enter: git add
+In Powershell, enter: git status    (notice that the added copied over stuff is green)
+In Powershell, enter: git commit -m "send"   (or instead of send, enter short message)
+In github browser app, see the new project folder inside mycode repository
